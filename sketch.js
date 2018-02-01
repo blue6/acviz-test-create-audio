@@ -1,5 +1,5 @@
 function setup() {
-  var audioFile = createAudio('01 半社会的パレード.mp3');
+  var audioFile = createAudio('01.mp3');
   audioFile.showControls();
 }
 
